@@ -1,0 +1,2 @@
+# tragic-lite
+version
